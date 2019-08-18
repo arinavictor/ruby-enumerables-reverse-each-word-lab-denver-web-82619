@@ -9,5 +9,8 @@ def reverse_each_word(ordered_string)
     
   end 
   
+  final = reversed_array.join("")
+  final 
   
+end 
     
