@@ -7,3 +7,7 @@ def reverse_each_word(ordered_string)
     reversed_word = letter_array.reverse.join("")
     reversed_array << reversed_word
     
+  end 
+  
+  
+    
